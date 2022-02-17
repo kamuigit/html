@@ -1,0 +1,63 @@
+body{
+    background-color:gainsboro;
+    text-align: center;
+}
+#titleName{
+    margin: 0%;
+    position: relative;
+    top: 150pt;
+    text-align: center;
+    color: black;
+    
+}
+#titleImage{
+    margin-left: 0%;
+    height: 60vh;
+    width: 100vw;
+}
+#favFood1{
+    text-align: center;
+    background-color: gold;
+    color: white;
+}
+#foodDescription{
+    text-align: center;
+    color: white;
+}
+#favFoodImage1{
+    text-align: center;
+    height: 60vh;
+    width: 60vw;
+   
+}
+#favFood2{
+    text-align: center;
+    background-color: greenyellow;
+    color: white;
+}
+#foodDescription2{
+    text-align: center;
+    color: white;
+}
+#favFoodImage2{
+    text-align: center;
+    height: 60vh;
+    width: 60vw;
+    
+}
+#favFood3{
+    text-align: center;
+    color: ghostwhite;
+    background-color:palevioletred;
+}
+#foodDescription3{
+    text-align: center;
+    color: ghostwhite;
+    
+}
+#favFoodImage3{
+    text-align: center;
+    height: 60vh;
+    width: 60vw;
+    
+}
