@@ -1,63 +1,96 @@
 body{
-    background-color:gainsboro;
+    background-color: lightgrey;
     text-align: center;
 }
+
 #titleName{
-    margin: 0%;
-    position: relative;
-    top: 150pt;
-    text-align: center;
-    color: black;
     
-}
-#titleImage{
-    margin-left: 0%;
-    height: 60vh;
-    width: 100vw;
-}
-#favFood1{
+    margin-top: 100px;
     text-align: center;
-    background-color: gold;
-    color: white;
 }
-#foodDescription{
+#titlecont{
+    margin-left: 30px;
+    background-color: white;
+    width: 45vw;
+    height: 100vh;
+    float: left;
+}
+#titleDescription{
+    margin-top: 100px;
+    color: lightslategray;
     text-align: center;
-    color: white;
 }
-#favFoodImage1{
-    text-align: center;
-    height: 60vh;
-    width: 60vw;
-   
+#viewWork{
+    margin-left: 100px;
+    border: 2px solid lightslategrey;
+    padding: 5px;
+    border-radius: 30%;
 }
-#favFood2{
-    text-align: center;
-    background-color: greenyellow;
-    color: white;
+#backGroundImage{
+    background-color: white;
+    float: right;
+    width: 50vw;
+    height: 100vh;
 }
-#foodDescription2{
-    text-align: center;
-    color: white;
+#cont1{
+    height: 100vh;
+    width: 70vw;
 }
-#favFoodImage2{
-    text-align: center;
-    height: 60vh;
-    width: 60vw;
-    
+#ourWork
+{   margin-top: 500pt;
+    padding: 1px;
+    height: 10vh;
+    background-color: darkgoldenrod;
+    margin-bottom: 0%;
 }
-#favFood3{
-    text-align: center;
-    color: ghostwhite;
-    background-color:palevioletred;
+#firstImage{
+    height: 100vh;
+    width: 70vw;
 }
-#foodDescription3{
-    text-align: center;
-    color: ghostwhite;
-    
+#cont2{
+    height: 100vh;
+    width: 70vw;
 }
-#favFoodImage3{
-    text-align: center;
-    height: 60vh;
-    width: 60vw;
-    
+#secondImage{
+    margin-top: 50pt;
+    height: 100vh;
+    width: 70vw;
 }
+#firstImageName
+{   margin-top: 0pt;
+    padding: 2px;
+    height: 10vh;
+    background-color:gainsboro;  
+}
+#cont3{
+    height: 100vh;
+    width: 70vw;
+}
+#thirdImage{
+    margin-top: 70pt;
+    height: 100vh;
+    width: 70vw;
+}
+#secondImageName
+{   margin-top: 0pt;
+    padding: 2px;
+    height: 10vh;
+    background-color:gainsboro;  
+}
+#cont4{
+    height: 100vh;
+    width: 70vw;
+}
+#fourthImage{
+    margin-top: 90pt;
+    height: 100vh;
+    width: 70vw;
+}
+#thirdImageName
+{   margin-top: 0pt;
+    padding: 2px;
+    height: 10vh;
+    background-color:gainsboro; 
+    margin-top: 0%; 
+}
+
