@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+    color: white;
+}
+.panda{
+    padding: 1%;
+}
+#back{
+    padding-top: 1%;
+    padding-bottom: 2%;
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/12/14/24/night-3078326__340.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#front{
+    margin: 2%;
+    background-color:steelblue;
+    opacity: 0.7;
+    padding:20px;
+}
+#TitleName{
+    padding-bottom: 20px;
+}
+#textBox1{
+    background-color: cyan;
+    height: 10vh;
+    opacity: 0.7;
+}
+#textBox2{
+    background-color: cyan;
+    height: 10vh;
+    opacity: 0.7;
+}
+#textBox3{
+    background-color: cyan;
+    height: 15vh;
+    opacity: 0.7;
+}
+
